@@ -1,7 +1,7 @@
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-public class j01024 {
+public class J01024 {
     private static boolean check(String m)
     {
         for(int i=0;i<m.length();i++)

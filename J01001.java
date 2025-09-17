@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class RECTANGLE {
+public class J01001 {
     // tính diện tích và chu vi
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
